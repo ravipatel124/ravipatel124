@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Ravi Patel 👋
 
-<!--
-**ravipatel124/ravipatel124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Computer Engineering Student
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning
+- 💻 Learning Python, TensorFlow, Keras, and Data Science
+- 🌱 Currently building Machine Learning and Deep Learning projects
+- 🎯 Goal: Become an AI/ML Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Keras
+- NumPy
+- Pandas
+- Matplotlib
+- Git
+- GitHub
+
+---
+
+## 🚀 Projects
+
+### 🧠 MNIST Handwritten Digit Recognition
+- CNN-based handwritten digit recognition using TensorFlow and Keras.
+- Achieved high accuracy on the MNIST dataset.
+
+Repository:
+https://github.com/ravipatel124/MNIST-Handwritten-Digit-Recognition
+
+---
+
+## 📫 Contact
+
+📧 Email:
+ravipatel5057@gmail.com
+
+GitHub:
+https://github.com/ravipatel124
+
+---
+
+⭐ Thanks for visiting my profile!
